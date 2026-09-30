@@ -1,3 +1,6 @@
+# Static Routes
+These are manually configured routes that tell routes how to get to a specific network
+
 # Configuring Static Routes
 Completed a lesson about Static Routes, 
 so i created a simple packet tracer room with; Two PCs, Two Switches and Four Routers
